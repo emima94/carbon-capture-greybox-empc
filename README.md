@@ -1,5 +1,7 @@
 # carbon-capture-greybox-empc
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23377240.svg)](https://doi.org/10.5281/zenodo.23377240)
+
 This repository contains the code that reproduces the results and figures of the paper:
 
 > E. S. Martinsen, S. Frandsen, T. Scharling, J. K. Møller, H. Madsen, T. K. S. Ritschel, G. Goranović, *Neural network-based Grey-box Modeling and Economic Model Predictive Control of a Solvent-based Carbon Capture Pilot Plant*, Journal of Process Control (under review).
@@ -151,7 +153,7 @@ If you use this code, please cite the paper:
 }
 ```
 
-The citation details are also in [`CITATION.cff`](CITATION.cff).
+The code is archived on Zenodo: [10.5281/zenodo.23377240](https://doi.org/10.5281/zenodo.23377240). The citation details are also in [`CITATION.cff`](CITATION.cff).
 
 ## License
 
