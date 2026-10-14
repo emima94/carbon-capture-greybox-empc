@@ -137,6 +137,22 @@ The reproduced results were compared with the results behind the submitted manus
   - Figures 8, 9 and 12 have the same data. Their rendering differs slightly (sub-point shifts of the layout and legend line widths), since GR renders the LaTeX labels with the local TeX installation.
 - **EMPC:** see the replay section above.
 
+## Citation
+
+If you use this code, please cite the paper:
+
+```bibtex
+@article{Martinsen2026GreyBoxEMPC,
+  author  = {Martinsen, Emil Skov and Frandsen, Sten and Scharling, Tejs and M{\o}ller, Jan Kloppenborg and Madsen, Henrik and Ritschel, Tobias K. S. and Goranovi{\'c}, Goran},
+  title   = {Neural network-based Grey-box Modeling and Economic Model Predictive Control of a Solvent-based Carbon Capture Pilot Plant},
+  journal = {Journal of Process Control},
+  year    = {2026},
+  note    = {Submitted}
+}
+```
+
+The citation details are also in [`CITATION.cff`](CITATION.cff).
+
 ## License
 
 The code is released under the [MIT License](LICENSE). The data on DTU Data have their own license.
