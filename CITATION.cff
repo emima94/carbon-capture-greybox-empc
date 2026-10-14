@@ -3,6 +3,7 @@ message: "If you use this code, please cite the paper below."
 title: "carbon-capture-greybox-empc"
 abstract: "Code to reproduce the results of the paper 'Neural network-based Grey-box Modeling and Economic Model Predictive Control of a Solvent-based Carbon Capture Pilot Plant'."
 type: software
+doi: "10.5281/zenodo.23377240"
 authors:
   - given-names: "Emil Skov"
     family-names: "Martinsen"

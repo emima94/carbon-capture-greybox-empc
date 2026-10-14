@@ -1,0 +1,22 @@
+{
+  "title": "carbon-capture-greybox-empc: Code for \"Neural network-based Grey-box Modeling and Economic Model Predictive Control of a Solvent-based Carbon Capture Pilot Plant\"",
+  "upload_type": "software",
+  "description": "<p>Julia code to reproduce the results of the paper <em>Neural network-based Grey-box Modeling and Economic Model Predictive Control of a Solvent-based Carbon Capture Pilot Plant</em> (E. S. Martinsen, S. Frandsen, T. Scharling, J. K. Møller, H. Madsen, T. K. S. Ritschel, G. Goranović; submitted to Journal of Process Control).</p><p>The code covers the full pipeline: processing of the raw pilot-plant logs from the DTI carbon capture pilot plant, parameter estimation of the neural network-based grey-box model, EKF-based model validation, steady-state analysis, an offline replay of the closed-loop economic MPC tests, and the evaluation of the EMPC demonstration. The data are published separately on DTU Data.</p>",
+  "creators": [
+    {
+      "name": "Martinsen, Emil Skov",
+      "affiliation": "Department of Applied Mathematics and Computer Science, Technical University of Denmark"
+    }
+  ],
+  "license": "MIT",
+  "language": "eng",
+  "keywords": [
+    "carbon capture",
+    "economic model predictive control",
+    "grey-box modeling",
+    "neural networks",
+    "system identification",
+    "extended Kalman filter",
+    "Julia"
+  ]
+}
