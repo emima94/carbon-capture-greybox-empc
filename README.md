@@ -10,7 +10,7 @@ It contains the model, state-estimation and control code, and one driver script 
 
 ## Data
 
-The data are published separately on Zenodo: *link will be added*. This covers the raw pilot-plant logs, the parameter estimates, and the data from the EMPC tests at the pilot plant. Download the three zip files and extract them in `data/`, so that it contains:
+The data are published separately on Zenodo: [10.5281/zenodo.23377661](https://doi.org/10.5281/zenodo.23377661). This covers the raw pilot-plant logs, the parameter estimates, and the data from the EMPC tests at the pilot plant. Download the three zip files and extract them in `data/`, so that it contains:
 
 ```
 data/

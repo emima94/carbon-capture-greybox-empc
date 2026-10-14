@@ -2,7 +2,7 @@
 
 Data from the DTI solvent-based CO₂ capture pilot plant (Danish Technological Institute, Aarhus, Denmark) and the model parameter estimates used in the paper *Neural network-based Grey-box Modeling and Economic Model Predictive Control of a Solvent-based Carbon Capture Pilot Plant*.
 
-The data are published on Zenodo (*link will be added*) and are not part of the code repository. Download the three zip files `raw_pilot_plant.zip`, `parameter_estimates.zip` and `closed_loop_tests.zip` and extract them in this folder. `pilot_plant_series/` is not part of the download; driver 01 computes it from the raw logs. The data files were exported from the original project folders with [`../tools/export_data.jl`](../tools/export_data.jl).
+The data are published on Zenodo ([10.5281/zenodo.23377661](https://doi.org/10.5281/zenodo.23377661)) and are not part of the code repository. Download the three zip files `raw_pilot_plant.zip`, `parameter_estimates.zip` and `closed_loop_tests.zip` and extract them in this folder. `pilot_plant_series/` is not part of the download; driver 01 computes it from the raw logs. The data files were exported from the original project folders with [`../tools/export_data.jl`](../tools/export_data.jl).
 
 ```
 data/
