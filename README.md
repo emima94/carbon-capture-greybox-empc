@@ -10,7 +10,7 @@ It contains the model, state-estimation and control code, and one driver script 
 
 ## Data
 
-The data are published separately on DTU Data: *link will be added*. This covers the raw pilot-plant logs, the parameter estimates, and the data from the EMPC tests at the pilot plant. Download the data and place the folders in `data/`, so that it contains:
+The data are published separately on Zenodo: *link will be added*. This covers the raw pilot-plant logs, the parameter estimates, and the data from the EMPC tests at the pilot plant. Download the three zip files and extract them in `data/`, so that it contains:
 
 ```
 data/
@@ -67,7 +67,7 @@ carbon-capture-greybox-empc/
 ├── run_all.jl          Runs all drivers except the parameter estimation
 ├── drivers/            One script per step (see table below)
 ├── src/                Data processing, model, EKF, OCP and plotting functions
-├── data/               Data, downloaded from DTU Data (see data/README.md)
+├── data/               Data, downloaded from Zenodo (see data/README.md)
 ├── estimation_env/     Julia environment for the parameter estimation (package versions of the HPC runs)
 ├── tools/              Script that exported the data from the original project folders (not needed to reproduce)
 ├── figures/            Generated figures
@@ -158,4 +158,4 @@ The code is archived on Zenodo: [10.5281/zenodo.23377240](https://doi.org/10.528
 
 ## License
 
-The code is released under the [MIT License](LICENSE). The data on DTU Data have their own license.
+The code is released under the [MIT License](LICENSE). The data on Zenodo have their own license.

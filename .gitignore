@@ -1,4 +1,4 @@
-# Data are published separately on DTU Data (see data/README.md); only the documentation is tracked
+# Data are published separately on Zenodo (see data/README.md); only the documentation is tracked
 data/*
 !data/README.md
 
