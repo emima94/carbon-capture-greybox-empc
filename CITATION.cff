@@ -20,8 +20,10 @@ keywords:
 preferred-citation:
   type: article
   title: "Neural network-based Grey-box Modeling and Economic Model Predictive Control of a Solvent-based Carbon Capture Pilot Plant"
-  journal: "Journal of Process Control"
-  status: submitted
+  journal: "SSRN Electronic Journal"
+  doi: "10.2139/ssrn.7329166"
+  status: preprint
+  notes: "Preprint, submitted to Journal of Process Control"
   year: 2026
   authors:
     - given-names: "Emil Skov"
